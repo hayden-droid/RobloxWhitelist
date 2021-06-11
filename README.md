@@ -3,7 +3,7 @@
 # i do not recommend using this!
 
 
-Made in 1-2 day used that project to learn some php/javascript, i think its crackable but i never cracked something or know how to crack.
+Made in 1-2 day i used that project to learn some php/javascript, i think its crackable but i never cracked something or know how to crack.
 
 
 It's Synapse X and Script-Ware only because it uses Syn-Fingerprint and Fingerprint (Script-Ware).
