@@ -2,9 +2,10 @@
 
 # i do not recommend using this!
 
+Made in 1-2 day(Created at 05-22-2021) 
 
-Made in 1-2 day i used that project to learn some php/javascript, i think its crackable but i never cracked something or know how to crack.
 
+I used that project to learn some php/javascript, i think its crackable but i never cracked something or know how to crack.
 
 It's Synapse X and Script-Ware only because it uses Syn-Fingerprint and Fingerprint (Script-Ware).
 
