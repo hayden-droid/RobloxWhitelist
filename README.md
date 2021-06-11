@@ -8,9 +8,12 @@ Made in 1-2 day used that project to learn some php/javascript, i think its crac
 
 It's Synapse X and Script-Ware only because it uses Syn-Fingerprint and Fingerprint (Script-Ware).
 
+
+Put
 ```php
 <Files ~ "\.lua$">
    Order allow,deny
    Deny from all
 </Files>
 ```
+in .htaccess
