@@ -1,0 +1,1 @@
+messagebox("Get a key!","Get a key!",0)
